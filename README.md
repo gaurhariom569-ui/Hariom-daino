@@ -1,2 +1,2 @@
-# Hariom-daino
-This is my first rpository
+# Hariom-demo
+This is my first repository
